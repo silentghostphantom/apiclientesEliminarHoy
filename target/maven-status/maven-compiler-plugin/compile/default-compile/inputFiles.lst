@@ -1,0 +1,6 @@
+/Users/darkdestiny/IdeaProjects/ApiClientes/src/main/java/com/ipn/mx/apiclientes/ApiClientesApplication.java
+/Users/darkdestiny/IdeaProjects/ApiClientes/src/main/java/com/ipn/mx/apiclientes/controller/ClienteController.java
+/Users/darkdestiny/IdeaProjects/ApiClientes/src/main/java/com/ipn/mx/apiclientes/domain/entidades/Cliente.java
+/Users/darkdestiny/IdeaProjects/ApiClientes/src/main/java/com/ipn/mx/apiclientes/domain/repositorios/ClienteRepository.java
+/Users/darkdestiny/IdeaProjects/ApiClientes/src/main/java/com/ipn/mx/apiclientes/service/ClienteService.java
+/Users/darkdestiny/IdeaProjects/ApiClientes/src/main/java/com/ipn/mx/apiclientes/service/impl/ClienteServiceImpl.java
